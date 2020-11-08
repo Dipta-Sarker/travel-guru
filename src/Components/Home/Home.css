@@ -1,0 +1,22 @@
+.details{
+    font-size:20px;
+    width: 30%;
+    margin-top: 2%;
+    margin-left: 20px;
+    color: white;
+    position: absolute;
+}
+.details h1{
+    text-align: center;
+}
+.details button{
+    margin-left:150px;
+}
+.card{
+    margin-left:35%;
+    margin-top: 10%;
+    
+    
+    
+    
+}
